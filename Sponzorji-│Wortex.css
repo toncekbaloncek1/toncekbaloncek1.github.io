@@ -10,6 +10,8 @@
   margin: 205px auto 0 calc(((100% - 1140px) / 2) + 353px);
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-image-1 {
   width: 350px;
   height: 109px;

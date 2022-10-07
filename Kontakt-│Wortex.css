@@ -21,6 +21,8 @@
   padding-right: 0;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-text-2 {
   font-size: 3rem;
   text-shadow: 3px 2px 8px rgba(0,0,0,1);

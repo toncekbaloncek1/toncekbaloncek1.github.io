@@ -28,6 +28,8 @@
   margin: 12px calc(((100% - 1140px) / 2) + -99px) 0 calc(((100% - 1140px) / 2) + 533px);
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-social-icons-1 {
   height: 37px;
   min-height: 16px;
